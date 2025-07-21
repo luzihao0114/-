@@ -1,1 +1,0 @@
-temp_script=$(mktemp) && curl -sSL https://raw.githubusercontent.com/luzihao0114/-/main/硕风1.0 -o "$temp_script" && bash "$temp_script" && rm -f "$temp_script"
